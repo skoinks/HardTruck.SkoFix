@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ini text eol=crlf
+*.png binary
+*.jpg binary
+*.gif binary
+*.conf text eol=crlf
+*.webp binary
+dgvoodoo/*.txt text eol=crlf

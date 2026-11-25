@@ -1,0 +1,4 @@
+DDraw.dll and D3DImm.dll are unmodified files of dgVoodoo2 2.87.6 by Dege.
+https://github.com/dege-diosg/dgVoodoo2
+http://dege.fw.hu/dgVoodoo2/ReadmeGeneral/
+dgVoodoo.conf contains settings for Hard Truck.

@@ -1,0 +1,12 @@
+# build output
+build/
+dist/
+*.obj
+*.dll
+
+# everything recorded while playing
+*.dmp
+*.log
+
+# local
+archive/
